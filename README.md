@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tommy900122, a passionate developer exploring the realms of software engineering.
 - 🌱 Currently, I'm diving deep into the world of artificial intelligence and machine learning, striving to enhance my skills and knowledge.
 - 💻 I'm actively collaborating on various open-source projects and contributing to the developer community.
-- 📫 You can reach me via email at tommy@example.com or connect with me on LinkedIn here.
+- 📫 You can reach me via email at tommy900122@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I've caught some of the biggest fish in the most remote waters! From reeling in monster marlins to battling colossal catfish, fishing is my ultimate passion outside of coding. Whether it's casting lines in serene lakes or braving the choppy seas, I'm always up for a thrilling fishing adventure!
